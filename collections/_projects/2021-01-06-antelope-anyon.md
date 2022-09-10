@@ -1,8 +1,8 @@
 ---
 date: 2021-01-06 05:20:35 +0300
-title: Winning Student Exhibition Poster
+title: Student Exhibition Poster
 subtitle: Graphic Design | Poster Design
-image: '/images/project-8.jpg'
+image: '/images/exhibition-poster-mockup.png'
 ---
 For the 2022 Student Exhibition at the Graphic Design Bootcamp I attended, each one of us was given the task to design a poster and an invitation.
 
