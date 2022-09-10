@@ -8,7 +8,7 @@ For the 2022 Student Exhibition at the Graphic Design Bootcamp I attended, each 
 
 The design I created ended up being chosen as the official poster for the exhibition scheduled for October 2022. 
 
-![Palm trees](/images/exhibition-billboard-mockup.png){: width="1200" height="900"}
+![Palm trees](/images/exhibition-poster-invitation-mockup.png){: width="1200" height="900"}
 
 <strong>The idea behind the poster:</strong>
 
