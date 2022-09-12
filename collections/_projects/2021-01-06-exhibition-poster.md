@@ -1,7 +1,7 @@
 ---
 date: 2021-01-06 05:20:35 +0300
 title: Student Exhibition Poster
-subtitle: Graphic Design | Poster Design
+subtitle: Poster Design
 image: '/images/exhibition-poster-mockup.png'
 ---
 For the 2022 Student Exhibition at the Graphic Design Bootcamp I attended, each one of us was given the task to design a poster and an invitation.
