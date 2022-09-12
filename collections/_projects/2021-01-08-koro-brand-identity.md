@@ -1,7 +1,7 @@
 ---
 date: 2021-01-08 06:20:35 +0300
 title: KORO Brand Identity
-subtitle: Logo Design | Package Design | Brand Guidelines
+subtitle: Logo & Package Design | Brand Guidelines
 image: '/images/project-7.jpg'
 ---
 KORO is a Macedonian tea company that's been present on the market for over a decade. They focus on keeping all of their teas 100% organic, while still keeping the prices affordable for everyone.
