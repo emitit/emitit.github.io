@@ -10,7 +10,7 @@ The design I created ended up being chosen as the official poster for the exhibi
 
 ![Mockup of a poster and invitation card](/images/exhibition-poster-invitation-mockup.png){: width="1200" height="900"}
 
-<strong>The idea behind the poster:</strong>
+<strong>THE IDEA BEHIND THE POSTER</strong>
 
 During this entire year at the academy, we expanded our skills, ideas, our knowledge and we pushed our boundaries, therefore to me, this was the perfect way to capture that growth.
 

@@ -6,9 +6,15 @@ image: '/images/project-7.jpg'
 ---
 KORO is a Macedonian tea company that's been present on the market for over a decade. They focus on keeping all of their teas 100% organic, while still keeping the prices affordable for everyone.
 
-<strong>Client brief:</strong>
+<strong>CLIENT BRIEF</strong>
 
 After discussing their needs and goals, the final conclusion was that they want a fresher, more modern brand image while maintaining some already established elements. This meant a logo and a package redesign, creating a brand identity as well as a brand book with guidelines for the client to use in the future.
+
+<strong>DESIGNING THE LOGO</strong>
+
+The challenge was clear and simple - redesign the logo into a more modern one, but don’t make it completely unrecognisable from the previous one. The client also requested that I kept their current typeface, as that was the most eye-catching element of the logo.
+
+After a few iterations, this is the version that the client decided to proceed with.
 
 ![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
 
