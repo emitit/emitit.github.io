@@ -16,7 +16,7 @@ The challenge was clear and simple - redesign the logo into a more modern one, b
 
 After a few iterations, this is the version that the client decided to proceed with.
 
-![Before and After versions of the KORO logo](/images/logo-before-after.png){: width="1200" height="900"}
+![Before and After versions of the KORO logo](/images/logo-breakdown.webp){: width="1200" height="900"}
 
 Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
 
