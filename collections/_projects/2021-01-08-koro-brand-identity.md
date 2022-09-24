@@ -21,7 +21,7 @@ After three completely different iterations, this is the version that the client
 I intended to first design the logo in order to set the tone for the rest of the brand, meaning that the package design would come last.
 In the brand guideline below, you can see a simple explanation about the usage of the brand's logo, typography and colors. This means that any material designed in the future (social media posts, documents, packaging, business cards) is to be created following these rules. By refering to this guide when creating any design related to the KORO brand (package, business cards, envelopes), the client end up with a design that perfectly represents KORO.
 
-<iframe style="width:800px;height:500px" src="https://online.fliphtml5.com/wtexh/oaai/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+<iframe style="width:700px;height:400px" src="https://online.fliphtml5.com/wtexh/oaai/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
 
