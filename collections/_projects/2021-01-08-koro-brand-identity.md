@@ -20,13 +20,20 @@ After three completely different iterations, <strong>this is the version that th
 
 ![Breakdown of the logo elements](/images/logo-breakdown.webp){: width="1200" height="900"}
 
+I also designed 
+
+<strong>BRAND GUIDELINES</strong>
+
 I intended to first design the logo in order to set the tone for the rest of the brand, meaning that the package design would come last.
-In the brand guideline below, you can see a simple explanation about the usage of the brand's logo, typography and colors. This means that any material designed in the future (social media posts, documents, packaging, business cards) is to be created following these rules. By refering to this guide when creating any design related to the KORO brand (package, business cards, envelopes), the client ends up with a design that perfectly represents KORO.
+In the brand guideline below, you can see a simple explanation about the usage of the brand's logo, typography and colors. 
+
+This means that any material designed in the future (social media posts, documents, packaging, business cards) is to be created following these rules. By refering to this guide when creating any design related to the KORO brand (package, business cards, envelopes), the client ends up with a design that perfectly represents KORO.
 
 <strong>You can take a look of the brand book below:</strong>
 
-<iframe style="width:100%;height:400px" src="https://online.fliphtml5.com/wtexh/oaai/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 437px;" src="https://heyzine.com/flip-book/00da829bac.html"></iframe>
+
+Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
 
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
