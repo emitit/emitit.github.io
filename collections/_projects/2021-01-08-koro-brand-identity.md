@@ -33,7 +33,14 @@ This means that any material designed in the future (social media posts, documen
 
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 437px;" src="https://heyzine.com/flip-book/00da829bac.html"></iframe>
 
-After establishing the entire brand image, I moved onto the final step - desinging the package.
+<strong>STATIONERY</strong>
+No brand is complete with only a logo, so after establishing proper guidelines to follow, I designed some stationery items for the brand.
+
+<strong>PACKAGE DESIGN</strong>
+
+Lastly, I finished off this project by designing a package for each of their teas. Take a look!
 
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
+
+Thank you for reading through this brand redesign case study, I appreciate it. Till next time!
 
