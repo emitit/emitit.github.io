@@ -14,13 +14,13 @@ After discussing their needs and goals, the final conclusion was that they want 
 
 The challenge was clear and simple - redesign the logo into a more modern one, but don’t make it completely unrecognisable from the previous one. The client also requested that I kept their current typeface, as that was the most eye-catching element of the logo, as well as stick to red as the main color.
 
-After three completely different iterations, <strong>this is the version that the client decided to proceed with.</strong>
+After three completely different iterations, <strong>this is the version that the client decided to proceed with. The left logo is the primary logo, whereas the two on the right are secondary logos.</strong>
 
-![Mockup of the KORO logo](/images/logo-mockup.webp){: width="1200" height="900"}
+![KORO logo variations](/images/logo-variations.webp){: width="1200" height="900"}
 
 ![Breakdown of the logo elements](/images/logo-breakdown.webp){: width="1200" height="900"}
 
-I also designed 
+![Mockup of the KORO logo](/images/logo-mockup.webp){: width="1200" height="900"}
 
 <strong>BRAND GUIDELINES</strong>
 
@@ -33,7 +33,7 @@ This means that any material designed in the future (social media posts, documen
 
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 437px;" src="https://heyzine.com/flip-book/00da829bac.html"></iframe>
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+After establishing the entire brand image, I moved onto the final step - desinging the package.
 
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
 
