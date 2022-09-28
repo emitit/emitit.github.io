@@ -18,4 +18,6 @@ The main subject of the poster is Seymour Chwast, a designer known for his enorm
 contributions towards today’s graphic design - along with flowers coming out of his head,
 intending to also resemble the growth and expansion - both personal and professional.
 
-![Mockup of a billboard](/images/exhibition-billboard-mockup.webp){: width="1200" height="900"}
+![Train station mockup](/images/train-station-mockup.webp){: width="1200" height="900"}
+
+![Grey tones mockup](/images/grey-sf-mockup.webp){: width="1200" height="900"}
