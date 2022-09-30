@@ -5,7 +5,11 @@ subtitle: UI/UX Design | Logo Design
 image: '/images/Three Screens podcaster.png'
 ---
 
-For my 4-month UX Design Internship I was given the task to design the first podcast app that would collect all Macedonian podcasts in one place from multiple platforms.
+For my 4-month UX Design Internship I was given the task to design the first podcast app that would collect all Macedonian podcasts in one place from multiple platforms. 
+
+As the only UX designer, I was responsible for conducting user research, creating an interaction strategy that helped develop the navigation and flow, designing wireframes and interactive prototypes as well as organizing content according to the needs and goals of the users.
+
+To develop this project, I worked on a team along with two developers.
 
 <strong>THE PROBLEM</strong>
 <i>Macedonian podcasts are hard to discover</i>
@@ -13,10 +17,9 @@ For my 4-month UX Design Internship I was given the task to design the first pod
 There are over 70 podcasts by Macedonian creators on a wide variety of topics: business, fashion, music, books, politics, studies - you name it. However, there is no way to discover them since they are scattered on numerous platforms. 
 
 <strong>RESEARCH</strong>
-What do Macedonians know about Macedonian podcasts?
-As I was the only UX Designer, I went through the entire process of designing this app from start to finish - which means I also conducted user research.
+<i>What do Macedonians know about Macedonian podcasts?<i>
 
-<strong><i>Online research</i><strong>
+<strong><i>Online research</i></strong>
 To kick off the research, I found a few posts on Reddit in the Macedonian subreddit asking for Macedonian podcast recommendations - the main question being “Where do you even find these podcasts?”
 Besides that, there was not much information on this topic on the internet.
 
@@ -43,7 +46,8 @@ Intending to make it as simple as possible, I mapped out the ideal journey a use
 User interface
 
 Results & Learnings
-Although the app is currently in development I tested the prototype I created on 5 people to find out how they navigated through it. 
+Although the app is currently in development I sucessfully tested the prototype I created on 5 people to find out how they navigated through it. New podcast listeners had an easy time discovering podcasts on a particular topic, and podcast enthusiasts could, without an issue find their favorite podcasts, save them, and listen to them regularly.
 
+Perhaps the most valuable outcome from this project and the internship was learning to collaborate with multiple roles, lead discussions about potential solutions, ask lots of questions and listen carefully.
 
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
