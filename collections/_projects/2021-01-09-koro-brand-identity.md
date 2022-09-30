@@ -37,13 +37,18 @@ This means that any material designed in the future (social media posts, documen
 
 No brand is complete with only a logo, so after establishing proper guidelines to follow, I designed some stationery items for the brand.
 
+![stationery mockup](/images/stationery-mockup.webp){: width="1200" height="900"}
+
 <strong>PACKAGE DESIGN</strong>
 
 Lastly, I finished off this project by designing a package for each of their teas. Keeping it simple, I added some very high quality illustrations of the herbs on the left side, while also using the main color of the herb to write the name of it.
 
-On the sides, I hid the herbs between the curved lines for a nice aesthetic which would give slight touch of color and add some dimension. 
+On the sides, I hid the herbs between the curved lines for a nice aesthetic which would give a slight touch of color and add some dimension. 
 
 ![Two boxes, one leaned on the other](/images/tea-box-mockup.webp){: width="1200" height="900"}
+
+![Two boxes, one leaned on the other and a mug](/images/tea-box-leaned-mug.webp){: width="1200" height="900"}
+
 
 <strong>Thank you for reading through this brand redesign case study, I appreciate it!</strong>
 
