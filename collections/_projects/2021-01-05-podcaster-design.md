@@ -4,12 +4,46 @@ title: Podcaster App
 subtitle: UI/UX Design | Logo Design
 image: '/images/Three Screens podcaster.png'
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
-![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
+For my 4-month UX Design Internship I was given the task to design the first podcast app that would collect all Macedonian podcasts in one place from multiple platforms.
 
-Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam voluptatibus quibusdam est saepe iucundius, tamen expetitur propter voluptatem. Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Ita ne hoc quidem modo paria peccata sunt. Ita prorsus, inquam; Nunc ita separantur, ut disiuncta sint, quo nihil potest esse perversius. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis.
+<strong>THE PROBLEM</strong>
+<i>Macedonian podcasts are hard to discover</i>
+
+There are over 70 podcasts by Macedonian creators on a wide variety of topics: business, fashion, music, books, politics, studies - you name it. However, there is no way to discover them since they are scattered on numerous platforms. 
+
+<strong>RESEARCH</strong>
+What do Macedonians know about Macedonian podcasts?
+As I was the only UX Designer, I went through the entire process of designing this app from start to finish - which means I also conducted user research.
+
+<strong><i>Online research</i><strong>
+To kick off the research, I found a few posts on Reddit in the Macedonian subreddit asking for Macedonian podcast recommendations - the main question being “Where do you even find these podcasts?”
+Besides that, there was not much information on this topic on the internet.
+
+In person interviews
+To successfully understand what opinions people had about Macedonian podcasts, I set out two find these two types of people: podcast enthusiasts and people podcast newbies. This way, I would create a good experience both for newbies and for long-time podcast listeners.
+
+I interviewed 2 people from each group. In summary, here’s what I learned
+Podcast enthusiasts
+Have a very hard time finding other good podcasts to listen to, especially in a similar topic to the ones they already know and love.
+The only way to find out a podcast is if you do follow the creators on social media.
+Switching from one to another podcast usually requires jumping from one platform to another (for example Anchor/Spotify to Google Podcasts)
+
+Podcast newbies
+Don’t know where to even start looking for the podcasts
+Didn’t think many Macedonian podcasts exist at all
+Are quite curious to dive deeper into Macedonian podcasts
+
+User Personas
+Based on the conversations I had, I created a user persona for each group.
+
+User journey map
+Intending to make it as simple as possible, I mapped out the ideal journey a user would take to either find their favorite podcast, listen to it, save it or to discover new podcasts. 
+
+User interface
+
+Results & Learnings
+Although the app is currently in development I tested the prototype I created on 5 people to find out how they navigated through it. 
+
 
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
-
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
