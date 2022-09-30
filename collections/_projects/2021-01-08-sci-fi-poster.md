@@ -1,6 +1,6 @@
 ---
 date: 2021-01-09 07:20:35 +0300
-title: Science Fiction Environment
+title: Sci-Fi Poster
 subtitle: Photomanipulation 
 image: '/images/science-fiction-environment.webp'
 ---
