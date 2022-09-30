@@ -43,7 +43,7 @@ Lastly, I finished off this project by designing a package for each of their tea
 
 On the sides, I hid the herbs between the curved lines for a nice aesthetic which would give slight touch of color and add some dimension. 
 
-![Sea](/images/tea-box-mockup.webp){: width="1200" height="900"}
+![Two boxes, one leaned on the other](/images/tea-box-mockup.webp){: width="1200" height="900"}
 
 <strong>Thank you for reading through this brand redesign case study, I appreciate it!</strong>
 
