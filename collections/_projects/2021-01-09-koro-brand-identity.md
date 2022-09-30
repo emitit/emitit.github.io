@@ -39,9 +39,11 @@ No brand is complete with only a logo, so after establishing proper guidelines t
 
 <strong>PACKAGE DESIGN</strong>
 
-Lastly, I finished off this project by designing a package for each of their teas. Take a look!
+Lastly, I finished off this project by designing a package for each of their teas. Keeping it simple, I added some very high quality illustrations of the herbs on the left side, while also using the main color of the herb to write the name of it.
 
-![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
+On the sides, I hid the herbs between the curved lines for a nice aesthetic which would give slight touch of color and add some dimension. 
 
-Thank you for reading through this brand redesign case study, I appreciate it. Till next time!
+![Sea](/images/tea-box-mockup.webp){: width="1200" height="900"}
+
+<strong>Thank you for reading through this brand redesign case study, I appreciate it!</strong>
 
