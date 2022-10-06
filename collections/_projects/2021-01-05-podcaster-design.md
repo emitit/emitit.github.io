@@ -12,30 +12,39 @@ As the only UX designer, I was responsible for conducting user research, creatin
 To develop this project, I worked on a team along with two developers.
 
 <strong>THE PROBLEM</strong>
+
 <i>Macedonian podcasts are hard to discover</i>
 
 There are over 70 podcasts by Macedonian creators on a wide variety of topics: business, fashion, music, books, politics, studies - you name it. However, there is no way to discover them since they are scattered on numerous platforms. 
 
 <strong>RESEARCH</strong>
+
 <i>What do Macedonians know about Macedonian podcasts?<i>
 
 <strong><i>Online research</i></strong>
+
 To kick off the research, I found a few posts on Reddit in the Macedonian subreddit asking for Macedonian podcast recommendations - the main question being “Where do you even find these podcasts?”
 Besides that, there was not much information on this topic on the internet.
 
-In person interviews
+<strong><i>In person interviews</i></strong>
+
 To successfully understand what opinions people had about Macedonian podcasts, I set out two find these two types of people: podcast enthusiasts and people podcast newbies. This way, I would create a good experience both for newbies and for long-time podcast listeners.
 
 I interviewed 2 people from each group. In summary, here’s what I learned
-Podcast enthusiasts
-Have a very hard time finding other good podcasts to listen to, especially in a similar topic to the ones they already know and love.
-The only way to find out a podcast is if you do follow the creators on social media.
-Switching from one to another podcast usually requires jumping from one platform to another (for example Anchor/Spotify to Google Podcasts)
 
-Podcast newbies
-Don’t know where to even start looking for the podcasts
-Didn’t think many Macedonian podcasts exist at all
-Are quite curious to dive deeper into Macedonian podcasts
+<i>Podcast enthusiasts</i>
+
+•   Have a very hard time finding other good podcasts to listen to, especially in a similar topic to the ones they already know and love.
+
+•   The only way to find out a podcast is if you do follow the creators on social media.
+
+•   Switching from one to another podcast usually requires jumping from one platform to another (for example Anchor/Spotify to Google Podcasts)
+
+<i>Podcast newbies</i>
+
+•   Don’t know where to even start looking for the podcasts
+•   Didn’t think many Macedonian podcasts exist at all
+•   Are quite curious to dive deeper into Macedonian podcasts
 
 User Personas
 Based on the conversations I had, I created a user persona for each group.
