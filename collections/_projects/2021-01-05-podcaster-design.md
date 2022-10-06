@@ -30,7 +30,7 @@ Besides that, there was not much information on this topic on the internet.
 
 To successfully understand what opinions people had about Macedonian podcasts, I set out two find these two types of people: podcast enthusiasts and people podcast newbies. This way, I would create a good experience both for newbies and for long-time podcast listeners.
 
-I interviewed 2 people from each group. In summary, here’s what I learned
+I interviewed 2 people from each group. In summary, here’s what I learned:
 
 <i>Podcast enthusiasts</i>
 
@@ -38,13 +38,15 @@ I interviewed 2 people from each group. In summary, here’s what I learned
 
 •   The only way to find out a podcast is if you do follow the creators on social media.
 
-•   Switching from one to another podcast usually requires jumping from one platform to another (for example Anchor/Spotify to Google Podcasts)
+•   Switching from one to another podcast usually requires jumping from one platform to another (for example Anchor/Spotify to Google Podcasts).
 
 <i>Podcast newbies</i>
 
-•   Don’t know where to even start looking for the podcasts
-•   Didn’t think many Macedonian podcasts exist at all
-•   Are quite curious to dive deeper into Macedonian podcasts
+•   Don’t know where to even start looking for the podcasts.
+
+•   Didn’t think many Macedonian podcasts exist at all.
+
+•   Are quite curious to dive deeper into Macedonian podcasts.
 
 <strong>USER PERSONAS</strong>
 
