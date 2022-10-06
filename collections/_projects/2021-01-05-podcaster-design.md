@@ -21,7 +21,7 @@ There are over 70 podcasts by Macedonian creators on a wide variety of topics: b
 
 <i>What do Macedonians know about Macedonian podcasts?<i>
 
-<strong><i>Online research</i></strong>
+(___Online Research___)
 
 To kick off the research, I found a few posts on Reddit in the Macedonian subreddit asking for Macedonian podcast recommendations - the main question being “Where do you even find these podcasts?”
 Besides that, there was not much information on this topic on the internet.
