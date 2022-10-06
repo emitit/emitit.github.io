@@ -21,7 +21,7 @@ There are over 70 podcasts by Macedonian creators on a wide variety of topics: b
 
 <i>What do Macedonians know about Macedonian podcasts?<i>
 
-(___Online Research___)
+___Online Research___
 
 To kick off the research, I found a few posts on Reddit in the Macedonian subreddit asking for Macedonian podcast recommendations - the main question being “Where do you even find these podcasts?”
 Besides that, there was not much information on this topic on the internet.
@@ -46,15 +46,18 @@ I interviewed 2 people from each group. In summary, here’s what I learned
 •   Didn’t think many Macedonian podcasts exist at all
 •   Are quite curious to dive deeper into Macedonian podcasts
 
-User Personas
+<strong>USER PERSONAS</strong>
+
 Based on the conversations I had, I created a user persona for each group.
 
-User journey map
+<strong>USER JOURNEY MAP</strong>
+
 Intending to make it as simple as possible, I mapped out the ideal journey a user would take to either find their favorite podcast, listen to it, save it or to discover new podcasts. 
 
-User interface
+<strong>DESIGNING THE APP</strong>
 
-Results & Learnings
+<strong>RESULTS & LEARNINGS</strong>
+
 Although the app is currently in development I sucessfully tested the prototype I created on 5 people to find out how they navigated through it. New podcast listeners had an easy time discovering podcasts on a particular topic, and podcast enthusiasts could, without an issue find their favorite podcasts, save them, and listen to them regularly.
 
 Perhaps the most valuable outcome from this project and the internship was learning to collaborate with multiple roles, lead discussions about potential solutions, ask lots of questions and listen carefully.
