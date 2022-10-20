@@ -11,15 +11,11 @@ As the only UX designer, I was responsible for conducting user research, creatin
 
 To develop this project, I worked on a team along with two developers.
 
-<strong>THE PROBLEM</strong>
-
-<i>Macedonian podcasts are hard to discover</i>
+<strong>THE PROBLEM</strong> - <i>Macedonian podcasts are hard to discover</i>
 
 There are over 70 podcasts by Macedonian creators on a wide variety of topics: business, fashion, music, books, politics, studies - you name it. However, there is no way to discover them since they are scattered on numerous platforms. 
 
-<strong>RESEARCH</strong>
-
-<i>What do Macedonians know about Macedonian podcasts?<i>
+<strong>RESEARCH</strong> - <i>What do Macedonians know about Macedonian podcasts?<i>
 
 ___Online Research___
 
@@ -52,6 +48,8 @@ I interviewed 2 people from each group. In summary, here’s what I learned:
 
 Based on the conversations I had, I created a user persona for each group.
 
+![Sea](/images/user-personas.webp){: width="1200" height="900"}
+
 <strong>USER JOURNEY MAP</strong>
 
 Intending to make it as simple as possible, I mapped out the ideal journey a user would take to either find their favorite podcast, listen to it, save it or to discover new podcasts. 
@@ -61,6 +59,8 @@ Intending to make it as simple as possible, I mapped out the ideal journey a use
 <strong>RESULTS & LEARNINGS</strong>
 
 Although the app is currently in development I sucessfully tested the prototype I created on 5 people to find out how they navigated through it. New podcast listeners had an easy time discovering podcasts on a particular topic, and podcast enthusiasts could, without an issue find their favorite podcasts, save them, and listen to them regularly.
+
+If I were to re-do this project, this time, I would create a feature that would enable the users to also have a listed view of a particular creator's podcasts.
 
 Perhaps the most valuable outcome from this project and the internship was learning to collaborate with multiple roles, lead discussions about potential solutions, ask lots of questions and listen carefully.
 
