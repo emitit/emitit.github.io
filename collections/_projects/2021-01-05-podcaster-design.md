@@ -2,7 +2,7 @@
 date: 2021-01-05 05:20:35 +0300
 title: Podcaster App
 subtitle: UI/UX Design | Logo Design
-image: '/images/Three Screens podcaster.png'
+image: '/images/podcaster-mockup.webp'
 ---
 
 For my 4-month UX Design Internship I was given the task to design the first podcast app that would collect all Macedonian podcasts in one place from multiple platforms. 
