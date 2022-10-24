@@ -48,11 +48,13 @@ I interviewed 2 people from each group. In summary, here’s what I learned:
 
 Based on the conversations I had, I created a user persona for each group.
 
-![Sea](/images/user-personas.webp){: width="1200" height="900"}
+![Two user personas](/images/user-personas.webp){: width="1200" height="900"}
 
 <strong>USER JOURNEY MAP</strong>
 
 Intending to make it as simple as possible, I mapped out the ideal journey a user would take to either find their favorite podcast, listen to it, save it or to discover new podcasts. 
+
+![User journey map of the app](/images/user-flow-podcaster.png){: width="1200" height="900"}
 
 <strong>DESIGNING THE APP</strong>
 
