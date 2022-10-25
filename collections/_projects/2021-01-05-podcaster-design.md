@@ -58,6 +58,14 @@ Intending to make it as simple as possible, I mapped out the ideal journey a use
 
 <strong>DESIGNING THE APP</strong>
 
+To kick off the design process, I created some sketches to visualize the end product. Although not every currently existing page was in the initial sketching, here are the ones that I started off with.
+
+Afterwards, I designed the application without using any colors, which was a great way to put my problem solving skills to the test without relying on the visuals too much. 
+
+Lastly, after defining the style guide, components and the logo, I easily created a working prototype ready for user testing and handoff.
+
+Take a look at the prototype [here](https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1).
+
 <strong>RESULTS & LEARNINGS</strong>
 
 Although the app is currently in development I sucessfully tested the prototype I created on 5 people to find out how they navigated through it. New podcast listeners had an easy time discovering podcasts on a particular topic, and podcast enthusiasts could, without an issue find their favorite podcasts, save them, and listen to them regularly.
@@ -66,4 +74,4 @@ If I were to re-do this project, this time, I would create a feature that would 
 
 Perhaps the most valuable outcome from this project and the internship was learning to collaborate with multiple roles, lead discussions about potential solutions, ask lots of questions and listen carefully.
 
-Take a look at the design here: https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1
+Take a look at the prototype [here](https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1).
