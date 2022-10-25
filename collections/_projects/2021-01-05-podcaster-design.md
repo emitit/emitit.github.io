@@ -64,7 +64,7 @@ Afterwards, I designed the application without using any colors, which was a gre
 
 Lastly, after defining the style guide, components and the logo, I easily created a working prototype ready for user testing and handoff.
 
-Take a look at the prototype [here](https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1).
+Take a look at the prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
 
 <strong>RESULTS & LEARNINGS</strong>
 
@@ -74,4 +74,4 @@ If I were to re-do this project, this time, I would create a feature that would 
 
 Perhaps the most valuable outcome from this project and the internship was learning to collaborate with multiple roles, lead discussions about potential solutions, ask lots of questions and listen carefully.
 
-Take a look at the prototype [here](https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1).
+Take a look at the prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
