@@ -5,9 +5,9 @@ subtitle: UI/UX Design | Logo Design
 image: '/images/podcaster-mockup.webp'
 ---
 
-For my 4-month UX Design Internship I was given the task to design the first podcast app that would collect all Macedonian podcasts in one place from multiple platforms. 
+For my __4-month UX Design Internship__ I was given the task to design the first podcast app that would collect all Macedonian podcasts in one place from multiple platforms. 
 
-As the only UX designer, I was responsible for conducting user research, creating an interaction strategy that helped develop the navigation and flow, designing wireframes and interactive prototypes as well as organizing content according to the needs and goals of the users.
+As the __only UX designer__, I was responsible for conducting __user research__, creating an __interaction strategy__ that helped develop the navigation and flow, __designing wireframes__ and __interactive prototypes__ as well as __organizing content__ according to the needs and goals of the users.
 
 To develop this project, I worked on a team along with two developers.
 
@@ -19,8 +19,13 @@ There are over 70 podcasts by Macedonian creators on a wide variety of topics: b
 
 ___Online Research___
 
-To kick off the research, I found a few posts on Reddit in the Macedonian subreddit asking for Macedonian podcast recommendations - the main question being “Where do you even find these podcasts?”
-Besides that, there was not much information on this topic on the internet.
+There isn't much about this topic online, but I was convinced that there were others talking about it, so I started there.
+
+To kick off the research, I found a post on Reddit in the Macedonian subreddit asking for Macedonian podcast recommendations - the main question being “Where do you even find these podcasts?”. 
+
+As I saw that plenty of people had podcast recommendations, I decided to create a post asking how often they listen to podcasts, what their opinion on Macedonian podcasts is, how they first got their hands on Macedonian podcasts and how easy it is for them to find the content.
+
+After many similar responses, I decided to also speak more in depth with someone in real life.
 
 <strong><i>In person interviews</i></strong>
 
@@ -62,9 +67,9 @@ To kick off the design process, I created some sketches to visualize the end pro
 
 Afterwards, I designed the application without using any colors, which was a great way to put my problem solving skills to the test without relying on the visuals too much. 
 
-Lastly, after defining the style guide, components and the logo, I easily created a working prototype ready for user testing and handoff.
+At this point, the only thing left was creating a style guide, designing the logo and the components. Once these three were done, I easily and efficiently put the entire design together.
 
-Take a look at the prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
+You can check out the clickable prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
 
 <strong>RESULTS & LEARNINGS</strong>
 
@@ -74,4 +79,4 @@ If I were to re-do this project, this time, I would create a feature that would 
 
 Perhaps the most valuable outcome from this project and the internship was learning to collaborate with multiple roles, lead discussions about potential solutions, ask lots of questions and listen carefully.
 
-Take a look at the prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
+Check out the clickable prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
