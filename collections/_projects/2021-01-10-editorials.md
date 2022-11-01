@@ -5,10 +5,4 @@ subtitle: Editorial Design
 image: '/images/project-5.jpg'
 ---
 
-Hey! I'm super happy to have you here!
-
-Unfortunately, there's not much for me to show you, because the case study for this project is still in development.
-
-Please, make sure to visit me again by the end of the week, because I guarantee you'll find the full case study!
-
-Thank you for your patience!
+As a first editorial project, I designed a busines magazine, with three articles on different topics, one of which was highlighted on the cover page.

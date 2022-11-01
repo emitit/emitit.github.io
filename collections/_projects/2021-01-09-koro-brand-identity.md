@@ -1,6 +1,6 @@
 ---
 date: 2021-01-09 06:20:35 +0300
-title: KORO Brand Identity
+title: KORO Branding
 subtitle: Logo | Package | Brand Guidelines
 image: '/images/brand-image.webp'
 ---
