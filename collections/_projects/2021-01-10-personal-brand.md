@@ -16,11 +16,20 @@ __PROCESS__
 
 My main goal was to create a simple and clean yet modern logo that's easily recognizable. I took the approach of taking my initials and morphing them into a "one line" illustration, combining it with playful colors to capture the full brand.
 
+__SAFE ZONE__
+
+![An illustration of the logo with defined space around it that must always be left empty](/images/logo_safe_zone.webp)
+
 __LOGO USAGE__
 
+![How to use the logo on differently colored backgrounds](/images/logo-usage.webp)
+
+__TYPOGRAPHY__
+
+![Hierarchy of the typefaces used in the branding](/images/typography.webp){: width="1200" height="900"}
+
+__APPLICATION__
 
 ![Stationery mockup with a business card, document, envelope and notebook](/images/personal-brand-stationery.webp){: width="1200" height="900"}
 
 ![Business card on a wooden tray showing both sides of the card](/images/business-card.webp){: width="1200" height="900"}
-
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
