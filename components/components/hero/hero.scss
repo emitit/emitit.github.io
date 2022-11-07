@@ -116,10 +116,9 @@
 
 	&__description {
 		p {
-			margin-bottom: 0;
+			margin-bottom: 2;
 			font-size: 18px;
 			line-height: 1.6;
-			margin-bottom: 2;
 			color: $text-color;
 
 			@media only screen and (max-width: $desktop) {
