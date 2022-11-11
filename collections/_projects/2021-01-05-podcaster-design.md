@@ -11,6 +11,8 @@ As the __only UX designer__, I was responsible for conducting __user research__,
 
 To develop this project, I worked on a team along with two developers.
 
+You can check out the clickable prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
+
 <strong>THE PROBLEM</strong> - <i>Macedonian podcasts are hard to discover</i>
 
 There are over 70 podcasts by Macedonian creators on a wide variety of topics: business, fashion, music, books, politics, studies - you name it. However, there is no way to discover them since they are scattered on numerous platforms. 
@@ -65,11 +67,17 @@ Intending to make it as simple as possible, I mapped out the ideal journey a use
 
 To kick off the design process, I created some sketches to visualize the end product. Although not every currently existing page was in the initial sketching, here are the ones that I started off with.
 
-Afterwards, I designed the application without using any colors, which was a great way to put my problem solving skills to the test without relying on the visuals too much. 
+Soon after, due to time constraints I had to get to designing the high fidelity wireframes.
+
+You can check out the clickable prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
 
 At this point, the only thing left was creating a style guide, designing the logo and the components. Once these three were done, I easily and efficiently put the entire design together.
 
-You can check out the clickable prototype <a href="https://www.figma.com/proto/kwAki4HSqPpYMkdCXjVQXh/Podcaster?node-id=0%3A1&viewport=245%2C302%2C0.04&scaling=scale-down&starting-point-node-id=318%3A1091&show-proto-sidebar=1" target="_blank">here.</a>
+![Colors and typefaces used in the the app](/images/style-guide.webp){: width="1200" height="900"}
+
+![A breakdown of the podcaster logo](/images/logo.webp){: width="1200" height="900"}
+
+
 
 <strong>RESULTS & LEARNINGS</strong>
 
