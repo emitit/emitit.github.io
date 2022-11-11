@@ -31,7 +31,7 @@ This means that any material designed in the future (social media posts, documen
 
 <strong>You can take a look of the brand book below:</strong>
 
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 437px;" src="https://heyzine.com/flip-book/00da829bac.html"></iframe>
+<iframe style="width:100%;height:500px" src="https://online.fliphtml5.com/wtexh/oaai/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
 <strong>STATIONERY</strong>
 
