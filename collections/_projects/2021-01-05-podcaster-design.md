@@ -78,7 +78,6 @@ At this point, the only thing left was creating a style guide, designing the log
 ![A breakdown of the podcaster logo](/images/logo.webp){: width="1200" height="900"}
 
 
-
 <strong>RESULTS & LEARNINGS</strong>
 
 Although the app is currently in development I sucessfully tested the prototype I created on 5 people to find out how they navigated through it. New podcast listeners had an easy time discovering podcasts on a particular topic, and podcast enthusiasts could, without an issue find their favorite podcasts, save them, and listen to them regularly.
